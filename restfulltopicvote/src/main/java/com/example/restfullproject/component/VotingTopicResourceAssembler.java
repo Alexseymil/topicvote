@@ -6,7 +6,7 @@ import org.springframework.hateoas.Resource;
 import org.springframework.hateoas.ResourceAssembler;
 import org.springframework.stereotype.Component;
 
-import com.example.controller.VotingTopicController;
+import com.example.restfullproject.controller.VotingTopicController;
 import com.example.restfullproject.model.Status;
 import com.example.restfullproject.model.VotingTopic;
 
